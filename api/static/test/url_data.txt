@@ -1,0 +1,32 @@
+Data1 : https://news.detik.com/berita/d-5248482/sambut-habib-rizieq-begini-suasana-kawasan-petamburan-pagi-ini
+Data2 : https://news.detik.com/berita/d-5248648/massa-penjemput-habib-rizieq-menyemut-putihkan-terminal-3-bandara-soetta?_ga=2.222972508.694954718.1604973538-1470613650.1604973538
+Data3 : https://news.detik.com/foto-news/d-5248702/penampakan-habib-rizieq-saat-keluar-di-terminal-3-bandara-soekarno-hatta?_ga=2.190417388.694954718.1604973538-1470613650.1604973538
+Data4 : https://news.detik.com/berita/d-5248797/ramai-massa-penjemput-hrs-kerusakan-di-terminal-3-soetta-tak-terhindarkan?_ga=2.47466976.694954718.1604973538-1470613650.1604973538
+Data5 : https://news.detik.com/berita/d-5248569/pesawat-habib-rizieq-mendarat-di-bandara-soekarno-hatta?_ga=2.260744522.694954718.1604973538-1470613650.1604973538
+Data6 : https://news.detik.com/berita/d-5248683/dki-serahkan-urusan-kepulangan-karantina-mandiri-habib-rizieq-ke-pusat?_ga=2.152807806.694954718.1604973538-1470613650.1604973538
+Data7 : https://news.detik.com/berita/d-5248595/pesawat-habib-rizieq-mendarat-pendukung-di-soetta-serukan-ahlan-wa-sahlan?_ga=2.51736046.694954718.1604973538-1470613650.1604973538
+Data8 : https://news.detik.com/berita/d-5248822/pulang-jemput-habib-rizieq-massa-naik-motor-masuk-tol-bandara?_ga=2.193768938.694954718.1604973538-1470613650.1604973538
+Data9 : https://news.detik.com/berita/d-5248870/pkb-sayangkan-kerumunan-massa-habib-rizieq-potensi-corona-delaynya-pesawat?tag_from=wp_nhl_1
+Data10 : https://news.detik.com/berita/d-5248733/jokowi-resmi-anugerahkan-gelar-pahlawan-nasional-ke-6-tokoh-ini?_ga=2.160596346.694954718.1604973538-1470613650.1604973538
+Data11 : https://news.detik.com/berita-jawa-barat/d-5248799/polisi-tangkap-sindikat-pembuat-madu-palsu-khas-lebak-beromzet-miliaran?_ga=2.228421082.694954718.1604973538-1470613650.1604973538
+Data12 : https://news.detik.com/berita/d-5248927/polri-bangga-kapolri-pertama-jenderal-rs-soekanto-jadi-pahlawan-nasional?tag_from=wp_hl_judul
+Data13 : https://news.detik.com/berita-jawa-timur/d-5248926/cuaca-kembali-panas-bmkg-sebut-suhu-di-surabaya-mulai-normal?tag_from=wp_nhl_5
+Data14 : https://news.detik.com/berita/d-5248610/peringati-hari-pahlawan-jokowi-pimpin-ziarah-nasional-di-tmp-kalibata
+Data15 : https://news.detik.com/berita/d-5248943/tilap-dana-desa-rp-232-juta-mantan-kades-sekdes-di-aceh-ditangkap?tag_from=wp_nhl_1
+
+Url1 : https://news.detik.com/berita/d-5248482/sambut-habib-rizieq-begini-suasana-kawasan-petamburan-pagi-ini
+Url2 : https://news.detik.com/berita/d-5248648/massa-penjemput-habib-rizieq-menyemut-putihkan-terminal-3-bandara-soetta?_ga=2.222972508.694954718.1604973538-1470613650.1604973538
+Url3 : https://news.detik.com/foto-news/d-5248702/penampakan-habib-rizieq-saat-keluar-di-terminal-3-bandara-soekarno-hatta?_ga=2.190417388.694954718.1604973538-1470613650.1604973538
+Url4 : https://news.detik.com/berita/d-5248797/ramai-massa-penjemput-hrs-kerusakan-di-terminal-3-soetta-tak-terhindarkan?_ga=2.47466976.694954718.1604973538-1470613650.1604973538
+Url5 : https://news.detik.com/berita/d-5248569/pesawat-habib-rizieq-mendarat-di-bandara-soekarno-hatta?_ga=2.260744522.694954718.1604973538-1470613650.1604973538
+Url6 : https://news.detik.com/berita/d-5248683/dki-serahkan-urusan-kepulangan-karantina-mandiri-habib-rizieq-ke-pusat?_ga=2.152807806.694954718.1604973538-1470613650.1604973538
+Url7 : https://news.detik.com/berita/d-5248595/pesawat-habib-rizieq-mendarat-pendukung-di-soetta-serukan-ahlan-wa-sahlan?_ga=2.51736046.694954718.1604973538-1470613650.1604973538
+Url8 : https://news.detik.com/berita/d-5248822/pulang-jemput-habib-rizieq-massa-naik-motor-masuk-tol-bandara?_ga=2.193768938.694954718.1604973538-1470613650.1604973538
+Url9 : https://news.detik.com/berita/d-5248870/pkb-sayangkan-kerumunan-massa-habib-rizieq-potensi-corona-delaynya-pesawat?tag_from=wp_nhl_1
+Url10 : https://news.detik.com/berita/d-5248733/jokowi-resmi-anugerahkan-gelar-pahlawan-nasional-ke-6-tokoh-ini?_ga=2.160596346.694954718.1604973538-1470613650.1604973538
+Url11 : https://news.detik.com/berita-jawa-barat/d-5248799/polisi-tangkap-sindikat-pembuat-madu-palsu-khas-lebak-beromzet-miliaran?_ga=2.228421082.694954718.1604973538-1470613650.1604973538
+Url12 : https://news.detik.com/berita/d-5248927/polri-bangga-kapolri-pertama-jenderal-rs-soekanto-jadi-pahlawan-nasional?tag_from=wp_hl_judul
+Url13 : https://news.detik.com/berita-jawa-timur/d-5248926/cuaca-kembali-panas-bmkg-sebut-suhu-di-surabaya-mulai-normal?tag_from=wp_nhl_5
+Url14 : https://news.detik.com/berita/d-5248610/peringati-hari-pahlawan-jokowi-pimpin-ziarah-nasional-di-tmp-kalibata
+Url15 : https://news.detik.com/berita/d-5248943/tilap-dana-desa-rp-232-juta-mantan-kades-sekdes-di-aceh-ditangkap?tag_from=wp_nhl_1
+

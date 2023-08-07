@@ -1,0 +1,80 @@
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <link rel="icon" href="../static/img/think.png">
+
+      <link rel="stylesheet" href="../static/re.css">
+        <title>hreff Engine - File</title>
+  </head>
+  <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-info">
+            <a class="navbar-brand" href="#">hreff Engine</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                  <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about">About</a>
+                </li>
+              </ul>
+           </div>
+        </nav>
+
+      <header class = "search">
+        <div class="top-bar">
+            <a href="#"><img class = "logo" src="../static/img/questions.png" /></a>
+          <form id="search-form" method="POST" action="/results">
+            <input class="search-bar" name = "query_str" type="search" autofocus value = "{{query_str}}" onfocus = "this.value = this.value;" x-webkit-speech required/>
+            <input class="search-button button" type="submit" value="Search" />
+          </form>
+        </span>
+    </div>
+        </div>
+      </header>
+        <div class = "filename">
+            <h6> Daftar Judul Dokumen :</h6>
+                <h6>1. Sambut Habib Rizieq, Begini Suasana Kawasan Petamburan Pagi Ini
+                    <br>2. Massa Penjemput Habib Rizieq Menyemut Putihkan Terminal 3 Bandara Soetta
+                    <br>3. Penampakan Habib Rizieq Saat Keluar di Terminal 3 Bandara Soekarno-Hatta
+                    <br>4. Ramai Massa Penjemput HRS, Kerusakan di Terminal 3 Soetta Tak Terhindarkan
+                    <br>5. Pesawat Habib Rizieq Mendarat di Bandara Soekarno-Hatta
+                    <br>6. DKI Serahkan Urusan Kepulangan-Karantina Mandiri Habib Rizieq ke Pusat
+                    <br>7. Pesawat Habib Rizieq Mendarat, Pendukung di Soetta Serukan 'Ahlan Wa Sahlan'
+                    <br>8. Pulang Jemput Habib Rizieq, Massa Naik Motor Masuk Tol Bandara
+                    <br>9. PKB Sayangkan Kerumunan Massa Habib Rizieq: Potensi Corona-Delay Pesawat
+                    <br>10. Jokowi Resmi Anugerahkan Gelar Pahlawan Nasional ke 6 Tokoh Ini
+                    <br>11. Polisi Tangkap Sindikat Pembuat Madu Palsu Khas Lebak Beromzet Miliaran
+                    <br>12.Polri Bangga Kapolri Pertama Jenderal RS Soekanto Jadi Pahlawan Nasional
+                    <br>13. Cuaca Kembali Panas, BMKG Sebut Suhu di Surabaya Mulai Normal
+                    <br>14. Peringati Hari Pahlawan, Jokowi Pimpin Ziarah Nasional di TMP Kalibata
+                    <br>15. Tilap Dana Desa Rp 232 Juta, Mantan Kades-Sekdes di Aceh Ditangkap  </h6>
+        </div>
+      <div class = "results-box">
+          {% if error_message %}
+            <p> {{error_message}} </p>
+          {% endif %}
+          <div class = "search-results">
+
+                {% for result in results %}
+					{% if result["sim"] != 0 %}
+						<h1><a href="{{result['url']}}">{{result["title"]}}</a></h1>
+						<br> Jumlah Kata : {{result["wordcount"]}}
+						<br> Tingkat Kemiripan : {{ "%.4f"|format(result["sim"]*100)}} %
+						<br> {{result["description"]}} </br>
+						<br>
+						<br>
+					{% endif %}
+                {% endfor %}
+
+            </div>
+          <BODY BACKGROUND="../static/img/toscas.jpg">
+      </div>
+  </body>
+</html>
